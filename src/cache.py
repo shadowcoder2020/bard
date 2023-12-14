@@ -1,4 +1,4 @@
-from doh      import Query
+from doh       import Query
 from time      import sleep
 from threading import Thread, Lock
 
