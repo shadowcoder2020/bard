@@ -1,4 +1,4 @@
-# Trick Google
+# Bypassing Google
 Bypassing the internet ban of Google Bard with the help of Iran's 403 service DNS.
 
 ```bash
